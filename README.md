@@ -1,8 +1,8 @@
 # tmux-edgelord
 
-Move between panes, windows and sessions using the same four keys
+Move between panes, windows and sessions using the same four keys.
 
-Works like basic select-pane bindings except moving into a screen edge takes you to another window or session.
+Works like basic select-pane bindings except hitting a screen edge takes you to another window or session (instead of wrapping around to the other side of the current window).
 
 In the horizontal plane, moving left = previous window, and right = next window.
 
