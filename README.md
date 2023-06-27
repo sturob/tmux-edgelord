@@ -10,15 +10,13 @@ Vertically, moving up = previous session, and moving down next session.
 
 Imagine all your sessions stacked on top of each other and it makes more sense.
 
-This is how moving panes works in Zellij.
-
 
 ## bindings
 
 *These are uppercase.*
 
-Alt+J  Upward pane, in the previous session if necessary. 
-Alt+K  Downward pane, in the next session if necessary. 
-Alt+H  Rightward pane, in the next window if necessary.
-Alt+L  Leftward pane, in the previous window if necessary.
+	Alt+J  Upward pane, in the previous session if necessary. 
+	Alt+K  Downward pane, in the next session if necessary. 
+	Alt+H  Rightward pane, in the next window if necessary.
+	Alt+L  Leftward pane, in the previous window if necessary.
 
