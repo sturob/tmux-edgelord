@@ -2,7 +2,7 @@
 
 Vim motion inspired bindings (alt + HJKL) to spatially navigate *all* panes, crossing session and window boundaries when edges are hit.
 
-The four keybindings work similarly to typical select-pane bindings. When used at the edge of a window, however, they shift to an adjacent window (and possibly a different session). This differs from typical select-pane bindings which would wrap around - shifting to an opposite pane in the same window.
+The four keybindings work similarly to typical select-pane bindings. When used at the edge of a window, however, they shift to a pane in an adjacent window (or session). This differs from typical select-pane bindings which would wrap around - shifting to an opposite pane in the same window.
 
 ## Edge behaviour
 
