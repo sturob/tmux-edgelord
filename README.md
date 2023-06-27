@@ -1,8 +1,8 @@
 # tmux-edgelord
 
-Vim motion inspired bindings (alt + HJKL) to move spatially around *all* panes, crossing session and window boundaries.
+Vim motion inspired bindings (alt + HJKL) to spatially move around *all* panes, crossing session and window boundaries when edges are hit.
 
-The four keybindings work the same as typical select-pane bindings. Using them at the edge of a window, however, leads to a different window, and possibly a different session. Typical select-pane bindings would just wrap around to a pane on the opposite side of the same window.
+The four keybindings work similarly to typical select-pane bindings. When used at the edge of a window, however, they shift to an adjacent window (and possibly a different session). This differs from typical select-pane bindings which would wrap around - shifting to an opposite pane in the same window.
 
 ## Edge behaviour
 
